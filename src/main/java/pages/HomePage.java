@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class HomePage {
-	
+	//adding comment
 	
 	@FindBy(xpath="//*[@id='welcome']")
 	private WebElement userMenu;
